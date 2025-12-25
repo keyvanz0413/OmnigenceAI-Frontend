@@ -10,13 +10,23 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@monaco-editor/react": "^4.7.0",
     "antd": "^6.1.2",
     "axios": "^1.13.2",
+    "clsx": "^2.1.1",
     "dayjs": "^1.11.19",
+    "docxtemplater": "^3.67.6",
+    "file-saver": "^2.0.5",
+    "framer-motion": "^12.23.26",
     "lodash": "^4.17.21",
+    "lucide-react": "^0.562.0",
+    "openai": "^6.15.0",
+    "pdfjs-dist": "^5.4.449",
+    "pizzip": "^3.2.0",
     "react": "^19.2.0",
     "react-dom": "^19.2.0",
     "react-router-dom": "^7.11.0",
+    "tailwind-merge": "^3.4.0",
     "zustand": "^5.0.9"
   },
   "devDependencies": {
